@@ -10,6 +10,11 @@
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6711/badge)](https://bestpractices.coreinfrastructure.org/projects/6711)
 
 
+
+## Why this fork?
+
+Kedro seems a promising environment for the ML community. So the purpose of this repo is to implement some new features with respect to the original modular approach.  
+
 ## What is Kedro?
 
 Kedro is an open-source Python framework to create reproducible, maintainable, and modular data science code. It uses software engineering best practices to help you build production-ready data engineering and data science pipelines.
